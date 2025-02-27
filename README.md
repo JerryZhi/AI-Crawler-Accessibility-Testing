@@ -8,5 +8,7 @@ Tool for Fast Detection of Website/Server AI Crawler Blocking Policies（Not rob
 Change target_url at the buttom of file or use it as function
 ![image](https://github.com/user-attachments/assets/e0bf4ec4-9d7b-40ee-a15f-67b681e07b4f)
 
+# About AI Crawler List
+Thank for https://github.com/ai-robots-txt/ai.robots.txt
 
 
