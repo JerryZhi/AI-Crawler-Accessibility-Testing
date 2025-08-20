@@ -168,7 +168,7 @@ Welcome to submit Issues and Pull Requests to improve this tool!
 
 ## 📧 Contact
 
-For questions or suggestions, please contact us through Issues.
+For questions or suggestions, please contact me through Issues.
 
 ---
 
