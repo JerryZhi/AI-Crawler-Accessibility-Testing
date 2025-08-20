@@ -1,10 +1,10 @@
-# AI-Crawler-Detector
+# AI-Crawler-Detector AI爬虫检查器
 
 Fast Detection Tool for Website AI Crawler/Bot/Spider Blocking Policies
 
 快速检测网站AI爬虫/机器人/蜘蛛屏蔽策略的工具
 
-## 多语言
+## 🌐 Hreflang 多语言
 
 [中文文档](README.md) | [English Version](README_EN.md)
 
