@@ -1,8 +1,8 @@
-# AI-Crawler-Accessibility-Testing
+# AI-Crawler-Detector
 
-Tool for Fast Detection of Website/Server AI Crawler/Spider/Robots Blocking Policies (Not robots.txt)
+Fast Detection Tool for Website AI Crawler/Bot/Spider Blocking Policies
 
-一个快速检测网站/服务器对AI爬虫/蜘蛛/机器人阻止策略的工具（非robots.txt检测）
+快速检测网站AI爬虫/机器人/蜘蛛屏蔽策略的工具
 
 ## 🌟 Features 功能特性
 
@@ -22,8 +22,8 @@ Tool for Fast Detection of Website/Server AI Crawler/Spider/Robots Blocking Poli
 
 1. 克隆或下载此项目到本地
 ```bash
-git clone https://github.com/your-username/AI-Crawler-Accessibility-Testing.git
-cd AI-Crawler-Accessibility-Testing
+git clone https://github.com/JerryZhi/AI-Crawler-Detector.git
+cd AI-Crawler-Detector
 ```
 
 2. 安装依赖
@@ -35,7 +35,7 @@ pip install requests
 
 ### 交互式模式（推荐）
 ```bash
-python ai-crawler-accessibility-testing.py
+python ai-crawler-detector.py
 ```
 
 然后按照提示输入：
@@ -45,7 +45,7 @@ python ai-crawler-accessibility-testing.py
 
 ### 命令行模式
 ```bash
-python ai-crawler-accessibility-testing.py https://example.com
+python ai-crawler-detector.py https://example.com
 ```
 
 ## 🎯 Example Output 示例输出
@@ -147,6 +147,13 @@ AI爬虫可访问性测试工具
 
 欢迎提交Issue和Pull Request来改进这个工具！
 
+### 开发计划
+- [ ] 添加GUI界面
+- [ ] 支持批量URL测试
+- [ ] 添加测试报告导出功能
+- [ ] 支持自定义User-Agent列表
+- [ ] 添加性能监控功能
+
 ## 📄 License 许可证
 
 [MIT License](LICENSE)
@@ -155,10 +162,14 @@ AI爬虫可访问性测试工具
 
 - AI Crawler列表来源：[ai-robots-txt](https://github.com/ai-robots-txt/ai.robots.txt)
 - 策划：JerryZhi
-- 开发：Gemini Advanced 2.0 Flash & Copilot@Claude Sonnet 4
+- 开发：Gemini Advanced 2.0 Flash & GitHub Copilot
 
 ## 📧 Contact 联系
 
 如有问题或建议，请通过Issue联系我们。
+
+---
+
+**⭐ 如果这个工具对你有帮助，请给个Star支持一下！**
 
 
