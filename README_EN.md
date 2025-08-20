@@ -2,7 +2,7 @@
 
 Fast Detection Tool for Website AI Crawler/Bot/Spider Blocking Policies
 
-## Hreflang
+## 🌐 Hreflang
 
 [中文文档](README.md) | [English Version](README_EN.md)
 
